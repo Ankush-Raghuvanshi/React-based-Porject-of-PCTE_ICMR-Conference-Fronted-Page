@@ -10,18 +10,28 @@ as an information hub and communication channel for all stakeholders involved
 in the conference.
 
 Objectives
+
 • To create a modern and visually appealing interface.
+
 • To provide detailed information about the conference (about, schedule,
-speakers, etc.).
+speakers, etc.)
+
 • To enable visitors to register for the event easily.
+
 • To implement an image slider showcasing past events or highlights.
+
 • To ensure responsiveness across devices.
+
 • To enhance user experience with smooth navigation and interactive
 elements.
 
 Tools and Technologies Used
+
 • Frontend Framework: React.js
+
 • Markup Language: HTML5
+
 • Styling: CSS3
+
 • Scripting: JavaScript (ES6+)
 • Code Editor: Visual Studio Code
