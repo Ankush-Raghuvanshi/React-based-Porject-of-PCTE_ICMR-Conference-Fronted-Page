@@ -1,37 +1,70 @@
-In today's fast-paced digital age, the internet plays a crucial role in event
-organization, promotion, and participant engagement. This project aims to design
-and develop a conference website for the 13th International Multidisciplinary
-Conference (ICMR) hosted by PCTE Group of Institutes, Ludhiana. The website
-provides a comprehensive platform for attendees, speakers, and organizers to
-access all event-related information conveniently.
-The website is built using React.js, HTML, CSS, and JavaScript, ensuring a
-modern, responsive, and user-friendly interface. The purpose of the site is to serve
-as an information hub and communication channel for all stakeholders involved
-in the conference.
+# Getting Started with Create React App
 
-Objectives
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-• To create a modern and visually appealing interface.
+## Available Scripts
 
-• To provide detailed information about the conference (about, schedule,
-speakers, etc.)
+In the project directory, you can run:
 
-• To enable visitors to register for the event easily.
+### `npm start`
 
-• To implement an image slider showcasing past events or highlights.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-• To ensure responsiveness across devices.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-• To enhance user experience with smooth navigation and interactive
-elements.
+### `npm test`
 
-Tools and Technologies Used
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-• Frontend Framework: React.js
+### `npm run build`
 
-• Markup Language: HTML5
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-• Styling: CSS3
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-• Scripting: JavaScript (ES6+)
-• Code Editor: Visual Studio Code
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
